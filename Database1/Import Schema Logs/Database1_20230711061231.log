@@ -1,0 +1,84 @@
+11/07/2023 07:12:31	This log contains information about the import schema operation into project 'Database1' on computer 'OPTIPLEX790' by user 'Dell'.
+11/07/2023 07:12:31	Import of database schema has started.
+11/07/2023 07:12:37	Gathering database credentials
+11/07/2023 07:12:37	Gathering database options
+11/07/2023 07:12:37	Gathering users
+11/07/2023 07:12:37	Gathering roles
+11/07/2023 07:12:37	Gathering application roles
+11/07/2023 07:12:37	Gathering role memberships
+11/07/2023 07:12:37	Gathering filegroups
+11/07/2023 07:12:37	Gathering full-text catalogs
+11/07/2023 07:12:37	Gathering assemblies
+11/07/2023 07:12:37	Gathering certificates
+11/07/2023 07:12:37	Gathering asymmetric keys
+11/07/2023 07:12:37	Gathering symmetric keys
+11/07/2023 07:12:37	Gathering encrypted symmetric keys
+11/07/2023 07:12:37	Gathering schemas
+11/07/2023 07:12:37	Gathering XML schema collections
+11/07/2023 07:12:37	Gathering user-defined data types
+11/07/2023 07:12:37	Gathering user-defined types
+11/07/2023 07:12:37	Gathering table types
+11/07/2023 07:12:37	Gathering unique keys for table types
+11/07/2023 07:12:37	Gathering primary keys for table types
+11/07/2023 07:12:37	Gathering indexes for table types
+11/07/2023 07:12:37	Gathering check constraints for table types
+11/07/2023 07:12:37	Gathering default constraints for table types
+11/07/2023 07:12:37	Gathering partition functions
+11/07/2023 07:12:37	Gathering partition schemes
+11/07/2023 07:12:37	Gathering functions
+11/07/2023 07:12:37	Gathering encrypted functions
+11/07/2023 07:12:37	Gathering aggregates
+11/07/2023 07:12:37	Gathering procedures
+11/07/2023 07:12:37	Gathering encrypted procedures
+11/07/2023 07:12:37	Gathering tables
+11/07/2023 07:12:37	Gathering primary keys
+11/07/2023 07:12:37	Gathering unique constraints
+11/07/2023 07:12:37	Gathering foreign keys
+11/07/2023 07:12:37	Gathering default constraints
+11/07/2023 07:12:37	Gathering check constraints
+11/07/2023 07:12:37	Gathering views
+11/07/2023 07:12:37	Gathering encrypted views
+11/07/2023 07:12:37	Gathering indexes
+11/07/2023 07:12:37	Gathering statistics
+11/07/2023 07:12:37	Gathering full-text index stoplists
+11/07/2023 07:12:37	Gathering search property lists
+11/07/2023 07:12:37	Gathering search properties
+11/07/2023 07:12:37	Gathering full-text indexes
+11/07/2023 07:12:37	Gathering column store indexes
+11/07/2023 07:12:37	Gathering spatial indexes
+11/07/2023 07:12:37	Gathering XML indexes
+11/07/2023 07:12:37	Gathering Selective XML indexes
+11/07/2023 07:12:37	Gathering encrypted triggers
+11/07/2023 07:12:37	Gathering triggers
+11/07/2023 07:12:37	Gathering encrypted and clr ddl triggers
+11/07/2023 07:12:37	Gathering ddl triggers
+11/07/2023 07:12:37	Gathering synonyms
+11/07/2023 07:12:37	Gathering defaults
+11/07/2023 07:12:37	Gathering data constraint uddt bindings
+11/07/2023 07:12:37	Gathering rules
+11/07/2023 07:12:37	Gathering data constraint uddt bindings
+11/07/2023 07:12:37	Gathering message types
+11/07/2023 07:12:37	Gathering queues
+11/07/2023 07:12:37	Gathering contracts
+11/07/2023 07:12:37	Gathering services
+11/07/2023 07:12:37	Gathering event notifications
+11/07/2023 07:12:37	Gathering remote service bindings
+11/07/2023 07:12:37	Gathering broker priorities
+11/07/2023 07:12:37	Gathering signatures
+11/07/2023 07:12:37	Gathering compression options
+11/07/2023 07:12:37	Gathering sequence types
+11/07/2023 07:12:37	Gathering security policies
+11/07/2023 07:12:37	Gather column encryption keys
+11/07/2023 07:12:37	Gathering column master keys
+11/07/2023 07:12:37	Gathering external data sources
+11/07/2023 07:12:37	Gathering external file formats
+11/07/2023 07:12:37	Gathering external tables
+11/07/2023 07:12:37	Gathering extended properties
+11/07/2023 07:12:37	Gathering credentials
+11/07/2023 07:12:37	Gathering logins
+11/07/2023 07:12:37	Gathering server audits
+11/07/2023 07:12:38	Scanning project for duplicate elements
+11/07/2023 07:12:38	Finished duplicate element processing
+11/07/2023 07:12:38	Finished importing database.
+11/07/2023 07:12:38	A summary of the import was saved to the following location: E:\dev\db\Database1\Import Schema Logs\Database1_20230711061231.log
+11/07/2023 07:12:38	Click Finish to continue...

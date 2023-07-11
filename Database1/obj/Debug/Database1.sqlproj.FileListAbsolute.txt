@@ -1,0 +1,9 @@
+E:\dev\db\Database1\Database1.dacpac
+E:\dev\db\Database1\Database1.dll
+E:\dev\db\Database1\Database1.pdb
+E:\dev\db\Database1\bin\Debug\Database1.dacpac
+E:\dev\db\Database1\bin\Debug\Database1.dll
+E:\dev\db\Database1\bin\Debug\Database1.pdb
+E:\dev\db\Database1\obj\Debug\Database1.sqlproj.AssemblyReference.cache
+E:\dev\db\Database1\obj\Debug\Database1.dll
+E:\dev\db\Database1\obj\Debug\Database1.pdb
